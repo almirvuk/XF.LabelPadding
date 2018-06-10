@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XF.LabelPadding"
+             x:Class="XF.LabelPadding.MainPage"
+             Title="Main Page">
+
+	<Label Text="Almir Vuk"
+           FontSize="Large"
+           TextColor="White"
+           BackgroundColor="Crimson"
+           VerticalOptions="Center"
+           HorizontalOptions="Center" />
+
+</ContentPage>
